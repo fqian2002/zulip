@@ -28,7 +28,7 @@
     "colord": "^2.9.3",
     "core-js": "^3.26.0",
     "css-loader": "^6.2.0",
-    "css-minimizer-webpack-plugin": "^4.0.0",
+    "css-minimizer-webpack-plugin": "^5.0.0",
     "date-fns": "^2.16.1",
     "date-fns-tz": "^2.0.0",
     "email-addresses": "^5.0.0",

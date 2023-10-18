@@ -1606,7 +1606,7 @@ uhashring==2.2 \
     --hash=sha256:5c6ec0a3e72827d1cc195ca1537994c298f8442f7325507a24f06c2a3561e36c \
     --hash=sha256:e2a0338b5d2b43c7859233280e1b3bb988566a37ec013c12a01fa317429c459d
     # via python-binary-memcached
-urllib3==1.26.14 \
+urllib3==1.26.18 \
     --hash=sha256:076907bf8fd355cde77728471316625a4d2f7e713c125f51953bb5b3eecf4f72 \
     --hash=sha256:75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1
     # via

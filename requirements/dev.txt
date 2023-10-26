@@ -441,7 +441,7 @@ coverage==6.4.2 \
     --hash=sha256:f23876b018dfa5d3e98e96f5644b109090f16a4acb22064e0f06933663005d39 \
     --hash=sha256:f7bd0ffbcd03dc39490a1f40b2669cc414fae0c4e16b77bb26806a4d0b7d1452
     # via -r requirements/dev.in
-cryptography==39.0.2 \
+cryptography==41.0.5 \
     --hash=sha256:103e8f7155f3ce2ffa0049fe60169878d47a4364b277906386f8de21c9234aa1 \
     --hash=sha256:23df8ca3f24699167daf3e23e51f7ba7334d504af63a94af468f468b975b7dd7 \
     --hash=sha256:2725672bb53bb92dc7b4150d233cd4b8c59615cd8288d495eaa86db00d4e5c06 \
@@ -2361,7 +2361,7 @@ twilio==7.16.4 \
     --hash=sha256:594b2b594d2181e6f765e8af37f1d28277fa54b0f651ca7e5c0f54aa45797fd3 \
     --hash=sha256:7dead87cf3b92fae5db07ce553b571b315a1bfff2cc6a13bdf5bdfc4675409e5
     # via django-two-factor-auth
-twisted==22.10.0 \
+twisted==23.10.0rc1 \
     --hash=sha256:32acbd40a94f5f46e7b42c109bfae2b302250945561783a8b7a059048f2d4d31 \
     --hash=sha256:86c55f712cc5ab6f6d64e02503352464f0400f66d4f079096d744080afcccbd0
     # via
@@ -2624,7 +2624,7 @@ webencodings==0.5.1 \
     #   cssselect2
     #   html5lib
     #   tinycss2
-werkzeug==2.2.3 \
+werkzeug==3.0.1 \
     --hash=sha256:2e1ccc9417d4da358b9de6f174e3ac094391ea1d4fbef2d667865d819dfd0afe \
     --hash=sha256:56433961bc1f12533306c624f3be5e744389ac61d722175d543e1751285da612
     # via

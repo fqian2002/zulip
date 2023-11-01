@@ -1564,7 +1564,7 @@ tlds==2022070701 \
     --hash=sha256:7dbc90f0ebfedf6d418a6430cd84ce98103eca0b699fc316e464a97ec811a061 \
     --hash=sha256:8049061c2844dd35adda622b3c509defc79dd9f2bb7b828580405f9c33ecf8aa
     # via -r requirements/common.in
-tornado==6.2 \
+tornado==6.3.3 \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \
@@ -1629,7 +1629,7 @@ webencodings==0.5.1 \
     --hash=sha256:a0af1213f3c2226497a97e2b3aa01a7e4bee4f403f95be16fc9acd2947514a78 \
     --hash=sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923
     # via html5lib
-werkzeug==2.2.3 \
+werkzeug==3.0.1 \
     --hash=sha256:2e1ccc9417d4da358b9de6f174e3ac094391ea1d4fbef2d667865d819dfd0afe \
     --hash=sha256:56433961bc1f12533306c624f3be5e744389ac61d722175d543e1751285da612
     # via openapi-core

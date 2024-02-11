@@ -408,7 +408,7 @@ django-two-factor-auth[call,phonenumberslite,sms]==1.15.0 \
     --hash=sha256:def6b3242cbc53476c06972f1ba5069edd89a94edeb0f2723a6536ff4002dae0 \
     --hash=sha256:e40e32cd418b274905d94940c1e16678b147105542a3d7239fe015d262b367a4
     # via -r requirements/common.in
-dnspython==2.3.0 \
+dnspython==2.6.0rc1 \
     --hash=sha256:224e32b03eb46be70e12ef6d64e0be123a64e621ab4c0822ff6d450d52a540b9 \
     --hash=sha256:89141536394f909066cabd112e3e1a37e4e654db00a25308b0f130bc3152eb46
     # via pymongo

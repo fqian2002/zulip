@@ -860,7 +860,7 @@ openapi-spec-validator==0.5.5 \
     --hash=sha256:3010df5237748e25d7fac2b2aaf13457c1afd02735b2bd6f008a10079c8f443a \
     --hash=sha256:93ba247f585e1447214b4207728a7cce3726d148238217be69e6b8725c118fbe
     # via openapi-core
-orjson==3.8.7 \
+orjson==3.9.15 \
     --hash=sha256:010e2970ec9e826c332819e0da4b14b29b19641da0f1a6af4cec91629ef9b988 \
     --hash=sha256:0110970aed35dec293f30ed1e09f8604afd5d15c5ef83de7f6c427619b3ba47b \
     --hash=sha256:0295a7bfd713fa89231fd0822c995c31fc2343c59a1d13aa1b8b6651335654f5 \

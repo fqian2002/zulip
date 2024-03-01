@@ -1343,7 +1343,7 @@ pathspec==0.11.0 \
     --hash=sha256:3a66eb970cbac598f9e5ccb5b2cf58930cd8e3ed86d393d541eaf2d8b1705229 \
     --hash=sha256:64d338d4e0914e91c1792321e6907b5a593f1ab1851de7fc269557a21b30ebbc
     # via black
-peewee==3.16.0 \
+peewee==3.17.1 \
     --hash=sha256:1800c0a04962ee99d161c07f5a12fc49549caf5cfcda426a9103e34e37f854ba
     # via semgrep
 pep517==0.13.0 \

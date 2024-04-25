@@ -1478,7 +1478,7 @@ sly==0.5 \
     --hash=sha256:20485483259eec7f6ba85ff4d2e96a4e50c6621902667fc2695cc8bc2a3e5133 \
     --hash=sha256:251d42015e8507158aec2164f06035df4a82b0314ce6450f457d7125e7649024
     # via scim2-filter-parser
-social-auth-app-django==5.0.0 \
+social-auth-app-django==5.4.1 \
     --hash=sha256:52241a25445a010ab1c108bafff21fc5522d5c8cd0d48a92c39c7371824b065d \
     --hash=sha256:b6e3132ce087cdd6e1707aeb1b588be41d318408fcf6395435da0bc6fe9a9795
     # via -r requirements/common.in

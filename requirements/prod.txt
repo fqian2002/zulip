@@ -294,7 +294,7 @@ click==8.1.3 \
     --hash=sha256:7682dc8afb30297001674575ea00d1814d808d6a36af415a82bd481d37ba7b8e \
     --hash=sha256:bb4d8133cb15a609f44e8213d9b391b0809795062913b383c62be0ee95b1db48
     # via zulip
-cryptography==39.0.2 \
+cryptography==42.0.8 \
     --hash=sha256:103e8f7155f3ce2ffa0049fe60169878d47a4364b277906386f8de21c9234aa1 \
     --hash=sha256:23df8ca3f24699167daf3e23e51f7ba7334d504af63a94af468f468b975b7dd7 \
     --hash=sha256:2725672bb53bb92dc7b4150d233cd4b8c59615cd8288d495eaa86db00d4e5c06 \
@@ -1564,7 +1564,7 @@ tlds==2022070701 \
     --hash=sha256:7dbc90f0ebfedf6d418a6430cd84ce98103eca0b699fc316e464a97ec811a061 \
     --hash=sha256:8049061c2844dd35adda622b3c509defc79dd9f2bb7b828580405f9c33ecf8aa
     # via -r requirements/common.in
-tornado==6.2 \
+tornado==6.4.1 \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \

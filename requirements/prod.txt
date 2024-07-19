@@ -1457,7 +1457,7 @@ scim2-filter-parser==0.5.0 \
     --hash=sha256:104c72e6faeb9a6b873950f66b0e3b69134fb19debf67e1d3714e91a6dafd8af \
     --hash=sha256:4aca1b3b64655dc038a973a9659056a103a919fb0218614e36bf19d3b5de5b48
     # via django-scim2
-sentry-sdk==1.16.0 \
+sentry-sdk==2.8.0 \
     --hash=sha256:633edefead34d976ff22e7edc367cdf57768e24bc714615ccae746d9d91795ae \
     --hash=sha256:a900845bd78c263d49695d48ce78a4bce1030bbd917e0b6cc021fc000c901113
     # via -r requirements/common.in

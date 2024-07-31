@@ -2361,7 +2361,7 @@ twilio==7.16.4 \
     --hash=sha256:594b2b594d2181e6f765e8af37f1d28277fa54b0f651ca7e5c0f54aa45797fd3 \
     --hash=sha256:7dead87cf3b92fae5db07ce553b571b315a1bfff2cc6a13bdf5bdfc4675409e5
     # via django-two-factor-auth
-twisted==22.10.0 \
+twisted==24.7.0rc1 \
     --hash=sha256:32acbd40a94f5f46e7b42c109bfae2b302250945561783a8b7a059048f2d4d31 \
     --hash=sha256:86c55f712cc5ab6f6d64e02503352464f0400f66d4f079096d744080afcccbd0
     # via

@@ -606,7 +606,7 @@ fakeldap==0.6.5 \
     --hash=sha256:62b87abd92afe0f880869f5dd8f9b4b92c565a0c4f0a359b70eb1f2cbe5f24de \
     --hash=sha256:6d57c8355ffa3664b4c362b2ab321065dbdad165188b89af880228967cd268c6
     # via -r requirements/dev.in
-filelock==3.9.0 \
+filelock==3.20.1 \
     --hash=sha256:7b319f24340b51f55a2bf7a12ac0755a9b03e718311dac567a0f4f7fabd2f5de \
     --hash=sha256:f58d535af89bb9ad5cd4df046f741f8553a418c01a7856bf0d173bbc9f6bd16d
     # via tldextract
@@ -2336,7 +2336,7 @@ tomli-w==1.0.0 \
     --hash=sha256:9f2a07e8be30a0729e533ec968016807069991ae2fd921a78d42f429ae5f4463 \
     --hash=sha256:f463434305e0336248cac9c2dc8076b707d8a12d019dd349f5c1e382dd1ae1b9
     # via responses
-tornado==6.2 \
+tornado==6.5.3 \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \

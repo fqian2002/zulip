@@ -79,7 +79,7 @@
     "turndown": "^7.0.0",
     "url-loader": "^4.1.1",
     "webfonts-loader": "^8.0.0",
-    "webpack": "^5.61.0",
+    "webpack": "^5.104.1",
     "webpack-bundle-tracker": "^1.2.0",
     "webpack-cli": "^5.0.1",
     "winchan": "^0.2.1",

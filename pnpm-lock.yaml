@@ -36,7 +36,7 @@ specifiers:
   '@zxcvbn-ts/language-common': ^2.0.0
   '@zxcvbn-ts/language-en': ^2.0.0
   autosize: ^6.0.1
-  babel-loader: ^9.1.0
+  babel-loader: ^10.0.0
   babel-plugin-formatjs: ^10.2.6
   babel-plugin-istanbul: ^6.1.1
   babel-plugin-rewire-ts: ^1.4.0
@@ -157,7 +157,7 @@ dependencies:
   '@zxcvbn-ts/language-common': 2.0.1
   '@zxcvbn-ts/language-en': 2.1.0
   autosize: 6.0.1
-  babel-loader: 9.1.2_h5x7dh6zbbyopr7jvxivhylqpa
+  babel-loader: 10.0.0_h5x7dh6zbbyopr7jvxivhylqpa
   babel-plugin-formatjs: 10.4.0
   babel-plugin-istanbul: 6.1.1
   blueimp-md5: 2.19.0
@@ -3483,16 +3483,15 @@ packages:
     resolution: {integrity: sha512-wWUK79hNEsHN1PTHwHsGYpTNupgaovM39g6374uoIL1gfVSwK2q9flM1DFyvSEYkELRWf5aMGSf7bkGGNSl0Jw==}
     dev: false
 
-  /babel-loader/9.1.2_h5x7dh6zbbyopr7jvxivhylqpa:
-    resolution: {integrity: sha512-mN14niXW43tddohGl8HPu5yfQq70iUThvFL/4QzESA7GcZoC0eVOhvWdQ8+3UlSjaDE9MVtsW9mxDY07W7VpVA==}
-    engines: {node: '>= 14.15.0'}
+  /babel-loader/10.0.0_h5x7dh6zbbyopr7jvxivhylqpa:
+    resolution: {integrity: sha512-z8jt+EdS61AMw22nSfoNJAZ0vrtmhPRVi6ghL3rCeRZI8cdNYFiV5xeV3HbE7rlZZNmGH8BVccwWt8/ED0QOHA==}
+    engines: {node: ^18.20.0 || ^20.10.0 || >=22.0.0}
     peerDependencies:
       '@babel/core': ^7.12.0
-      webpack: '>=5'
+      webpack: '>=5.61.0'
     dependencies:
       '@babel/core': 7.21.3
-      find-cache-dir: 3.3.2
-      schema-utils: 4.0.0
+      find-up: 5.0.0
       webpack: 5.76.2_webpack-cli@5.0.1
     dev: false
 
@@ -5811,6 +5810,7 @@ packages:
       commondir: 1.0.1
       make-dir: 3.1.0
       pkg-dir: 4.2.0
+    dev: true
 
   /find-root/1.1.0:
     resolution: {integrity: sha512-NKfW6bec6GfKc0SGx1e07QZY9PE99u0Bft/0rzSD5k3sO/vwkVUpDUKVm5Gpp5Ue3YfShPFTX2070tDs5kB9Ng==}
@@ -7670,6 +7670,7 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       semver: 6.3.0
+    dev: true
 
   /make-error/1.3.6:
     resolution: {integrity: sha512-s8UhlNe7vPKomQhC1qFelMokr/Sc3AgNbso3n74mVPA5LTZwkB9NlXf4XPamLxJE8h0gh73rM94xvwRT2CVInw==}
